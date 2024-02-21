@@ -2,4 +2,5 @@ Welcome to Tic Tac Toe, a classic game created with HTML, CSS, and JavaScript. I
 
 ![image](https://github.com/johndaves6240/TicTacToe/assets/73985344/6913e699-2ea4-4cca-9264-ed73dc85241e)
 
-![Uploading image.png…]()
+![image](https://github.com/johndaves6240/TicTacToe/assets/73985344/0d72f6a7-9df8-44f3-b466-f2dc435683ae)
+
