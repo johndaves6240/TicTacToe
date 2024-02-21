@@ -66,7 +66,7 @@ body{
     left: 0;
     width: 85px;
     height: 40px;
-    background-color: rgb(117, 191, 5);
+    background-color: rgb(255, 49, 49);
     z-index: -1;
 }
 
@@ -89,19 +89,20 @@ body{
 }
 
 .box:hover{
-    background-color: rgb(117, 191, 5);
+    background-color: rgb(255, 49, 49);
 }
 
 #play-again{
-    background-color: rgb(117, 191, 5); 
+    background-color:rgb(255, 49, 49);
     padding: 10px 25px;
     font-size: 1.2rem;
     border-radius: 5px;
     cursor: pointer;
+    display: None;
 }
 
 #play-again:hover{
     padding: 10px 40px;
-    background-color: rgb(235, 72, 17);
-    color: rgb(38, 37, 37);
+    background-color: rgb(255, 49, 49);
 }
+
