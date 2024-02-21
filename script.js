@@ -1,5 +1,5 @@
 let boxes = document.querySelectorAll(".box");
-
+const jsConfetti = new JSConfetti();
 let turn ="X";
 let isGameOver =false;
 
@@ -37,7 +37,7 @@ function checkWin(){
            for(let j =0; j<3; j++){
              boxes[winConditions[i][j]].style.backgroundColor = "#08D9D6";
            }
-           
+           jsConfetti.addConfetti();
         }
     }
 }
